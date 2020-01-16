@@ -1,0 +1,18 @@
+#form {
+  input, textarea {
+    display: block;
+    margin: 0 0 10px;
+    outline: 0;
+  }
+  input.text, textarea {
+    width: 100%;
+    border: 1px solid #999;
+  }
+  input.button {
+    width: 200px;
+    height: 30px;
+    margin: 0 0 10px auto;
+    background: blueviolet;
+    color: #fff;
+  }
+}

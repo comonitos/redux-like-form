@@ -1,0 +1,13 @@
+#form input,#form textarea{display:block;margin:0 0 10px;outline:0}#form input.text,#form textarea{width:100%;border:1px solid #999}#form input.button{width:200px;height:30px;margin:0 0 10px auto;background:blueviolet;color:#fff}
+
+
+.comments-control{overflow:hidden;padding:10px 20px}.comments-control a{float:right}.comments-control span{float:left}
+
+.comment a{float:right}.comment span{float:left}.comment p{clear:both}
+
+#container{box-sizing:border-box;width:500px;margin:20px auto;padding:20px;border:1px solid cornflowerblue}
+
+*,*::before,*::after{box-sizing:border-box}ul[class],ol[class]{padding:0}body,h1,h2,h3,h4,p,ul[class],ol[class],li,figure,figcaption,blockquote,dl,dd{margin:0}body{min-height:100vh;scroll-behavior:smooth;text-rendering:optimizeSpeed;line-height:1.5}ul[class],ol[class]{list-style:none}a:not([class]){text-decoration-skip-ink:auto}img{max-width:100%;display:block}article>*+*{margin-top:1em}input,button,textarea,select{font:inherit}@media (prefers-reduced-motion: reduce){*{animation-duration:0.01ms !important;animation-iteration-count:1 !important;transition-duration:0.01ms !important;scroll-behavior:auto !important}}
+
+#app{font-family:sans-serif}#app hr{outline:0;border:0;border-bottom:1px solid gray}
+
